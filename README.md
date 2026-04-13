@@ -7,31 +7,30 @@ I build end-to-end data solutions—from engineering automated ETL pipelines to 
 ### 🛠️ Tech Stack
 
 **Languages & Core Data**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 
 **Data Engineering & Cloud**
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-000000?style=for-the-badge&logo=dagster&logoColor=white)
+<img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Google BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Amazon Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white"/>
+<img src="https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
+![Dagster](https://img.shields.io/badge/Dagster-173872?style=for-the-badge&logo=dagster&logoColor=white)
 
 **BI & Data Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+<img src="https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white"/>
 
 **Product Analytics & Tracking**
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://img.shields.io/badge/-Google Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white"/>
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 ![Tealium](https://img.shields.io/badge/Tealium-04476E?style=for-the-badge&logo=tealium&logoColor=white)
 
 **Version Control & CI/CD**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
 ---
 

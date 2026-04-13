@@ -4,6 +4,8 @@
 
 I build end-to-end data solutions—from engineering automated ETL pipelines to designing business-driven analytics dashboards. I specialize in turning messy, unstructured data into scalable systems and actionable insights.
 
+This is my new profile ([old profile](https://github.com/mazen-hussein22/))  where I share projects that interested me to develop locally.
+
 ### 🛠️ Tech Stack
 
 **Languages & Core Data**

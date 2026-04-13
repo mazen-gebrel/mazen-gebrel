@@ -40,7 +40,12 @@ I build end-to-end data solutions—from engineering automated ETL pipelines to 
 #### [📈 Automated Job Market ETL Pipeline](https://github.com/your-username/job-market-etl-pipeline)
 An end-to-end, automated data pipeline engineered to track technical skill demand.
 * **The Build:** Extracts live API data, cleans unstructured HTML using Regex/Pandas to flag specific skills, and loads it into a persistent SQLite database.
-* **The Automation:** Fully automated via GitHub Actions cron jobs to run weekly. 
+* **The Automation:** Fully automated via GitHub Actions cron jobs to run weekly.
+
+#### [🔮 Predictive Customer Churn Engine](https://github.com/your-username/predictive-churn-model)
+An end-to-end Machine Learning web application that predicts user cancellation risk.
+* **The Build:** Engineered a complete `scikit-learn` pipeline featuring automated scaling, one-hot encoding, and a tuned Random Forest Classifier, serialized for production.
+* **The UI:** Deployed an interactive Streamlit frontend that allows Customer Success teams to input user metrics and receive real-time churn probabilities and retention recommendations.
 
 #### [🛍️ E-Commerce Customer Segmentation (RFM) Dashboard](https://github.com/your-username/rfm-customer-segmentation)
 A full-stack, interactive analytics application that segments users based on purchasing behavior.

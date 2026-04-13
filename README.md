@@ -50,8 +50,8 @@ A full-stack, interactive analytics application that segments users based on pur
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mazen-mo/)
-* **Email:** [your-email@example.com](mailto:mazenm1010@hotmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/mazen-mo/
+* **Email:** mailto:mazenm1010@hotmail.com
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mazen-gebrel&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>

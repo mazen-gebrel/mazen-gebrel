@@ -36,6 +36,11 @@ I build end-to-end data solutions—from engineering automated ETL pipelines to 
 
 ### 🚀 Featured Projects
 
+#### [🗄️ Privacy-First Local RAG (Document Q&A)](https://github.com/your-username/local-rag-document-chat)
+An air-gapped Retrieval-Augmented Generation pipeline to chat with confidential PDFs locally.
+* **The Build:** Decoupled architecture utilizing LangChain, HuggingFace embeddings, and a persistent local ChromaDB for vector storage. 
+* **The Inference:** Routes context to an open-source LLM (DeepSeek/Mistral) hosted locally via LM Studio, guaranteeing zero data leakage to external APIs. Paired with a Streamlit chat UI.
+
 #### [📈 Automated Job Market ETL Pipeline](https://github.com/your-username/job-market-etl-pipeline)
 An end-to-end, automated data pipeline engineered to track technical skill demand.
 * **The Build:** Extracts live API data, cleans unstructured HTML using Regex/Pandas to flag specific skills, and loads it into a persistent SQLite database.

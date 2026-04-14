@@ -53,6 +53,11 @@ An end-to-end Machine Learning web application that predicts user cancellation r
 * **The Build:** Engineered a complete `scikit-learn` pipeline featuring automated scaling, one-hot encoding, and a tuned Random Forest Classifier, serialized for production.
 * **The UI:** Deployed an interactive Streamlit frontend that allows Customer Success teams to input user metrics and receive real-time churn probabilities and retention recommendations.
 
+#### [🎙️ Multilingual AI Audio Transcription Pipeline](https://github.com/your-username/audio-transcription-pipeline)
+A deep-learning application that extracts structured text and timestamps from raw audio.
+* **The Build:** Implemented OpenAI's `Whisper` model locally, featuring dynamic compute allocation (swapping model weights based on hardware limits) and forced language mapping for complex dialects.
+* **The UI:** Engineered a Streamlit frontend that caches ML weights in RAM for performance and outputs structured timestamp DataFrames ready for downstream NLP analysis.
+
 #### [🛍️ E-Commerce Customer Segmentation (RFM) Dashboard](https://github.com/your-username/rfm-customer-segmentation)
 A full-stack, interactive analytics application that segments users based on purchasing behavior.
 * **The Build:** Processes synthetic transaction data to calculate complex Recency, Frequency, and Monetary (RFM) quantiles.
